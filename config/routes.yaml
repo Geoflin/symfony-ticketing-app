@@ -1,0 +1,4 @@
+# config/routes.yaml
+about:
+  path: /about
+  controller: App\Controller\CoreController::about
